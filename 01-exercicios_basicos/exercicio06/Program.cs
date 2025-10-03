@@ -1,4 +1,6 @@
-﻿using System;
+// Exercício 6: Crie uma aplicação console que peça o nome do usuário e mostre: Olá, {nome}!
+
+using System;
 class Program
 {
     static void Main(string[] args)
